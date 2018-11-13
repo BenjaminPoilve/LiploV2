@@ -4,7 +4,7 @@ An easy-to-assemble and fun-to-use pen plotter.
 
 [![](media/demo.gif)](https://drive.google.com/file/d/1IOQD-J_z76QY-tL704c8X8B1uKx3wiMO/view?usp=sharing)
 
-(click on the gif for the video. Context: this was a video that I made when I wanted to launch I kickstarter. Never went through. Sorry for the bad english/soundwork)
+(click on the gif for the video. Context: this was a video that I made when I wanted to launch a kickstarter. Never went through. Sorry for the bad english/soundwork)
 
 
 This is the second iteration of my [Liplo](https://github.com/BenjaminPoilve/Liplo) project. Unfortunately, I can't freely share sources, as this project was part of a deal I had with a french organisation call a SATT. Still decided to document the change I have made for this version and why they were better/worse
@@ -39,7 +39,7 @@ I choose to go from wood to a fully silicon molded body. My main reason:
 * It was much cheaper (around $10 per body)
 
 
-The issue that was people really liked wood! This version did not have the low-tech appeal of the other one. 
+The issue was that people really liked wood! This version did not have the low-tech appeal of the other one. 
 
 ##### Other change
  
