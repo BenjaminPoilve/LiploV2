@@ -30,7 +30,7 @@ In the end, I would say this was a bad choice. Though this choice allowed for fa
 
 ##### Body change
 
-![](media/detachée.jpg)
+![](media/detache.jpg)
 
 I choose to go from wood to a fully silicon molded body. My main reason:
 
