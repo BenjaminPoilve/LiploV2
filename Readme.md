@@ -2,7 +2,7 @@
 
 An easy-to-assemble and fun-to-use pen plotter.
 
-[![](Media/demo.gif)](https://drive.google.com/file/d/1IOQD-J_z76QY-tL704c8X8B1uKx3wiMO/view?usp=sharing)
+[![](media/demo.gif)](https://drive.google.com/file/d/1IOQD-J_z76QY-tL704c8X8B1uKx3wiMO/view?usp=sharing)
 
 (click on the gif for the video. Context: this was a video that I made when I wanted to launch I kickstarter. Never went through. Sorry for the bad english/soundwork)
 
@@ -11,7 +11,7 @@ This is the second iteration of my [Liplo](https://github.com/BenjaminPoilve/Lip
 
 ### Main changes
 
-![](Media/charact-01-01.png)
+![](media/charact-01-01.png)
 
 ##### Motor switch
 
@@ -25,12 +25,12 @@ Since one of my main issue with the former model was the overheating of stepper 
 In the end, I would say this was a bad choice. Though this choice allowed for faster a more precise drawings, those motors are very sensitive, and tend to break for no reason. Add to that that they are really hard to solder, and I understood why stepper are still in use. On the plus side they are cheap ($6 with encoder), fast, and run cool. 
 
 
-![](Media/demoo-01.png)
+![](media/demoo-01.png)
 
 
 ##### Body change
 
-![](Media/detachée.jpg)
+![](media/detachée.jpg)
 
 I choose to go from wood to a fully silicon molded body. My main reason:
 
